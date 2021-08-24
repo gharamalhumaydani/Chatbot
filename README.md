@@ -30,8 +30,10 @@ my own script.
 
 
 
-Create more than one list to save the data in which we will make a joint work
+Create more than one list to save the data in which we will make a joint work.
 
+
+![2021-08-24 (11)](https://user-images.githubusercontent.com/86461558/130598420-f17983fa-924b-4f81-a1c6-016a67bcbf4a.png)
 
 
 
