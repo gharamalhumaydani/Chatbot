@@ -8,5 +8,5 @@ Start by creating a Json file which will holds the chatbot intents, you can crea
 
 This file contains the intents for the chatbot to recognize and respond correctly to the user as it has samples of what the user would say (patterns) and what's the correct respond (responses)
  
- The file it is 
+ 
  
