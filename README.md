@@ -47,6 +47,11 @@ Docs_x : We store ordinary words.
 Docs_y : We store the relationship between words and tag.
 
 
+
+![2021-08-24 (8)](https://user-images.githubusercontent.com/86461558/130598879-c9a11ba8-aa32-4946-8850-811759b0e483.png)
+
+
+
  
  
  
