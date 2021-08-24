@@ -28,6 +28,7 @@ Download the libraries we need.
 We open our data file and upload it to a file
 my own script.
 
+![2021-08-24 (21)](https://user-images.githubusercontent.com/86461558/130598732-bcd20bf0-c431-4a32-b4e8-ae79f8621817.png)
 
 
 Create more than one list to save the data in which we will make a joint work.
