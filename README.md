@@ -8,16 +8,20 @@ Start by creating a Json file which will holds the chatbot intents, you can crea
 
 This file contains the intents for the chatbot to recognize and respond correctly to the user as it has samples of what the user would say (patterns) and what's the correct respond (responses)
 
+
 ![2021-08-24 (4)](https://user-images.githubusercontent.com/86461558/130567924-40a751d3-72f2-435b-85ca-3bb49cbbf998.png)
 
 
 Each conversational intent contains:
+
 
 a tag (a unique name)
 
 patterns (sentence patterns for our neural network text classifier)
 
 responses (one will be used as a response)
+
+
 
 
 
@@ -48,6 +52,8 @@ Docs_y : We store the relationship between words and tag.
 
 
 
+
+
 We use for loop
 To add data to the list
 
@@ -67,16 +73,22 @@ We transform the list into a array for the model to understand.
 
 ![2021-08-24 (22)](https://user-images.githubusercontent.com/86461558/130601738-28631654-611f-418d-968e-4fde470fc0e4.png)
 
+
 Create a new network that we are working to interact with,
 Put the beginning of the model in it and save it.
+
  
  ![2021-08-24 (20)](https://user-images.githubusercontent.com/86461558/130599435-d0c38aab-b9a3-4396-aae6-b5c128f5f20a.png)
  
+ 
  We create a function to convert a user input into numbers that the model can understand.
  
+ 
  ![2021-08-24 (15)](https://user-images.githubusercontent.com/86461558/130599584-2dff769f-4eba-4df1-b95e-f60978ea50b0.png)
+ 
 
-We are going to make another new function that we connect to model .
+We are going to make another new function that we connect to model.
+
 
 ![2021-08-24 (17)](https://user-images.githubusercontent.com/86461558/130599670-67d1aa9d-d5ee-4f24-90a3-db2a3527eb21.png)
 
