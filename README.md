@@ -28,11 +28,12 @@ Download the libraries we need.
 We open our data file and upload it to a file
 my own script.
 
-![2021-08-24 (6)](https://user-images.githubusercontent.com/86461558/130578081-d636d2a6-2335-4136-a30c-eb9a02cfd205.png)
-
 
 
 Create more than one list to save the data in which we will make a joint work
+
+
+
 
 Words :  We store all the words.
 
