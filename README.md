@@ -63,5 +63,10 @@ Docs_y : We store the relationship between words and tag.
 
  
  ![2021-08-24 (20)](https://user-images.githubusercontent.com/86461558/130599435-d0c38aab-b9a3-4396-aae6-b5c128f5f20a.png)
+ 
+ 
+ 
+ ![2021-08-24 (15)](https://user-images.githubusercontent.com/86461558/130599584-2dff769f-4eba-4df1-b95e-f60978ea50b0.png)
+
 
  
